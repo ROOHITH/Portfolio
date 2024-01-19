@@ -514,3 +514,14 @@ h6,
 .bordered-list ul { list-style-type: none; padding: 0; margin: 0; }
 .bordered-list li { display: inline-block; border: 1px solid #e0e0e0; padding: 8px; margin-right: 5px; margin-bottom: 5px; border-radius: 5px; }
 
+.iconImage img{
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+ 
+  position: relative;
+  text-align: center;
+ 
+  margin-right: 10px;
+}
