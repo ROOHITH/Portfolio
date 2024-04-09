@@ -80,6 +80,14 @@ $(document).ready(function () {
           "https://www.codecademy.com/resources/docs/html/attributes/id",
         imageUrl: "./assets/img/OpenSourceImg1.png",
       },
+      {
+        name: "Tublian Frontend Challenge",
+        type: "Web", // Set the type to OpenSource
+        githubUrl:
+          "https://tublian-frontend-challenge.onrender.com/",
+        imageUrl: "./assets/img/Tublian_frontend_Challenge.png",
+      },
+      
       // Add other project data here
     ];
 
