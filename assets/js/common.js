@@ -86,6 +86,12 @@ $(document).ready(function () {
         githubUrl:
           "https://tublian-frontend-challenge.onrender.com/",
         imageUrl: "./assets/img/Tublian_frontend_Challenge.png",
+      }, {
+        name: "SVG Editor Challenge Kerala Startup Mission at Fablab ",
+        type: "Web",
+        githubUrl: "https://svg-editor.onrender.com/",
+        imageUrl: "./assets/img/svgeditor.png",
+       
       },
       
       // Add other project data here
