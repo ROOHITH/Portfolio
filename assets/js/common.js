@@ -93,7 +93,13 @@ $(document).ready(function () {
         imageUrl: "./assets/img/svgeditor.png",
        
       },
-      
+       {
+        name: "moviewhere",
+        type: "Web",
+        githubUrl: "https://moviewhere.in/",
+        imageUrl: "./assets/img/moviewwhere.png",
+       
+      },
       // Add other project data here
     ];
 
